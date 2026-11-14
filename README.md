@@ -2,7 +2,7 @@
 
 **Software engineering leader · Telecom & collaboration · Java microservices & applied AI**
 
-I'm a software engineering manager at Cisco, working on Webex collaboration and communication services. My background spans telecom engineering, test automation, backend systems, and leading cross-functional teams. Alongside that work, I build public projects that explore AI agents, real-time voice, and practical developer tools.
+I'm a software engineering manager at Cisco, working on Webex collaboration and communication services. My background spans software development, AI assisted development, telecom engineering, backend systems, and leading cross-functional teams. Alongside that work, I build public projects that explore AI agents, real-time voice, and practical developer tools.
 
 [LinkedIn](https://www.linkedin.com/in/arun-kumar-mani/) · [Public repositories](https://github.com/joinarun?tab=repositories)
 
